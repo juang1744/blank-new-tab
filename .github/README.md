@@ -64,3 +64,11 @@ Replace Google's default new tab page ...
 <link rel="icon" href="images/extension_icon.svg" type="image/svg+xml">
 <style>@media(prefers-color-scheme:dark){body{background:#3c3c3c}}</style>
 ```
+
+<p align="center">
+  
+|Before|After|
+|---|---|
+|![Default Light Mode](./before_light.png#gh-light-mode-only)![Default Dark Mode](./before_dark.png#gh-dark-mode-only)|![Custom Light Mode](./after_light.png#gh-light-mode-only)![Custom Dark Mode](./after_dark.png#gh-dark-mode-only)|
+
+</p>
