@@ -4,11 +4,11 @@
 </h1>
 
 <p align="center">
-  <a href="/"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white" alt="MongoDB badge"></a>
-  <a href="/"><img src="https://img.shields.io/badge/Size-<1MB-limegreen" alt="React Native badge"></a>
-  <a href="/"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="Expo badge"></a>
-  <a href="/"><img src="https://img.shields.io/badge/🌙Dark_Mode-dimgrey" alt="iOS badge"></a>
-  <a href="/"><img src="https://img.shields.io/badge/☀️Light_Mode-white?logo=sun&logoColor=white" alt="Android badge"></a>
+  <a href="/"><img src="https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white" alt="Google Chrome badge"></a>
+  <a href="/"><img src="https://img.shields.io/badge/Size-<1MB-limegreen" alt="Size <1MB badge"></a>
+  <a href="/"><img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" alt="HTML badge"></a>
+  <a href="/"><img src="https://img.shields.io/badge/🌙Dark_Mode-dimgrey" alt="Dark Mode badge"></a>
+  <a href="/"><img src="https://img.shields.io/badge/☀️Light_Mode-white?logo=sun&logoColor=white" alt="Light Mode badge"></a>
 </p>
 
 Replace Google's default new tab page ...
