@@ -68,3 +68,17 @@ Replace Google's default new tab page ...
 |Before|After|
 |---|---|
 |![Default Light Mode](./before_light.png#gh-light-mode-only)![Default Dark Mode](./before_dark.png#gh-dark-mode-only)|![Custom Light Mode](./after_light.png#gh-light-mode-only)![Custom Dark Mode](./after_dark.png#gh-dark-mode-only)|
+
+## Installation
+
+1) Clone this repository:
+
+    ```bash
+    git clone https://github.com/juangutierrez01/chrome-custom-new-tab/
+    ```
+
+2) Using the command line, change directories into the newly created `chrome-custom-new-tab` folder:
+
+    ```bash
+    cd chrome-custom-new-tab
+    ```
