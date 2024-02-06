@@ -80,5 +80,5 @@ Replace Google's default new tab page ...
 2. On Google Chrome, head to `chrome://extensions`
 3. Turn on `Developer mode`
 4. Click `Load Unpacked`
-5. Select the folder `chrome-custom-new-tab` that was downloaded in step 1.
-6. Success! Your new tab page should now be a custom, blank page.
+5. Select the folder `chrome-custom-new-tab` that was downloaded in step 1
+6. Success! Your new tab page should now be a custom, blank page
