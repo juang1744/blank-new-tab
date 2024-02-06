@@ -71,14 +71,14 @@ Replace Google's default new tab page ...
 
 ## Installation
 
-1) Clone this repository:
+1. Download this repository:
 
     ```bash
     git clone https://github.com/juangutierrez01/chrome-custom-new-tab/
     ```
 
-2) Using the command line, change directories into the newly created `chrome-custom-new-tab` folder:
-
-    ```bash
-    cd chrome-custom-new-tab
-    ```
+2. On Google Chrome, head to `chrome://extensions`
+3. Turn on `Developer mode`
+4. Click `Load Unpacked`
+5. Select the folder `chrome-custom-new-tab` that was downloaded in step 1.
+6. Success! Your new tab page should now be a custom, blank page.
